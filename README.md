@@ -1,6 +1,14 @@
 # Instagram_Stories
 
-A new Flutter project.
+<img src="Screenshots/image.png" width= 300>
+
+![](Screenshots/video.mp4)
+
+<video width="320" height="240" controls>
+  <source src="video.mp4" type="video/mp4">
+</video>
+
+Instagram Stories Interface
 
 ## Getting Started
 
