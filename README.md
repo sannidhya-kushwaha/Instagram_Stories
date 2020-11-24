@@ -1,12 +1,9 @@
 # Instagram_Stories
 
 <img src="Screenshots/image.png" width= 300>
+<img src="https://user-images.githubusercontent.com/73152930/100085140-af2bd680-2e71-11eb-8e4e-98b9d74a5e9e.gif" width= 300>
 
-![](Screenshots/video.mp4)
 
-<video width="320" height="240" controls>
-  <source src="video.mp4" type="video/mp4">
-</video>
 
 Instagram Stories Interface
 
